@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Prime or Composite\bin\Debug\netcoreapp3.1\Prime or Composite.exe
+C:\Users\Admin\source\repos\Prime or Composite\bin\Debug\netcoreapp3.1\Prime or Composite.deps.json
+C:\Users\Admin\source\repos\Prime or Composite\bin\Debug\netcoreapp3.1\Prime or Composite.runtimeconfig.json
+C:\Users\Admin\source\repos\Prime or Composite\bin\Debug\netcoreapp3.1\Prime or Composite.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Prime or Composite\bin\Debug\netcoreapp3.1\Prime or Composite.dll
+C:\Users\Admin\source\repos\Prime or Composite\bin\Debug\netcoreapp3.1\Prime or Composite.pdb
+C:\Users\Admin\source\repos\Prime or Composite\obj\Debug\netcoreapp3.1\Prime or Composite.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Prime or Composite\obj\Debug\netcoreapp3.1\Prime or Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Prime or Composite\obj\Debug\netcoreapp3.1\Prime or Composite.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Prime or Composite\obj\Debug\netcoreapp3.1\Prime or Composite.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Prime or Composite\obj\Debug\netcoreapp3.1\Prime or Composite.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Prime or Composite\obj\Debug\netcoreapp3.1\Prime or Composite.dll
+C:\Users\Admin\source\repos\Prime or Composite\obj\Debug\netcoreapp3.1\Prime or Composite.pdb
+C:\Users\Admin\source\repos\Prime or Composite\obj\Debug\netcoreapp3.1\Prime or Composite.genruntimeconfig.cache
